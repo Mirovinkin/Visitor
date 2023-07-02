@@ -20,3 +20,4 @@ namespace Visitor
         }
     }
 }
+//Code taken from https://metanit.com/sharp/patterns/3.11.php
